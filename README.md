@@ -31,7 +31,7 @@ Blockchain & Cybersecurity
 Clone the project
 
 ```bash
-  git clone https://github.com/rohankanduri/Gmeet-Clone
+  git clone https://github.com/sr2706/SIH-2023-30
 ```
 or download the zip file.
 
